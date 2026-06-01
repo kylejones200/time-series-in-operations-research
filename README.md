@@ -11,14 +11,7 @@ Mathematical optimization on its own does not account for the fluid nature of ti
 
 Time series analysis informs core decisions in operations research. In demand forecasting, historical sales data help predict future needs, enabling firms to align inventory and staffing with expected activity. Retailers rely on these forecasts during peak periods, such as holidays, when understocking can result in lost revenue and overstocking can create waste. In resource allocation, time series data on usage patterns help organizations match capacity to need. Power utilities, for example, forecast daily load curves to manage grid stability and avoid overproduction.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
